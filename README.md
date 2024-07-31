@@ -1,4 +1,4 @@
-# Car_image_classification_CNN_model
+# Car_image_classification_CNN_Computer Vision_Model
 
 Dataset Visualization
 ![image](https://github.com/user-attachments/assets/00c72d7e-6a4b-4781-807b-ef42621fe980)
